@@ -1,0 +1,1298 @@
+1626882637381	geckodriver	INFO	Listening on 127.0.0.1:42683
+1626882638393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7tbVLA"
+1626882639971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7tbVLA/search.json.mozlz4", (void 0)))
+1626882641110	Marionette	INFO	Listening on port 44021
+1626882641224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626882712739	Marionette	INFO	Stopped listening on port 44021
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626883490171	geckodriver	INFO	Listening on 127.0.0.1:49811
+1626883491175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIsa8j9"
+1626883492703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIsa8j9/search.json.mozlz4", (void 0)))
+1626883493968	Marionette	INFO	Listening on port 41615
+1626883493997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626883523467	Marionette	INFO	Stopped listening on port 41615
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626883699926	geckodriver	INFO	Listening on 127.0.0.1:59003
+1626883700937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileONiBH4"
+1626883702493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileONiBH4/search.json.mozlz4", (void 0)))
+1626883703443	Marionette	INFO	Listening on port 45043
+1626883703455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626883750612	geckodriver	INFO	Listening on 127.0.0.1:42431
+1626883751623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5rsTJx"
+1626883753146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5rsTJx/search.json.mozlz4", (void 0)))
+1626883754176	Marionette	INFO	Listening on port 40963
+1626883754265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626883758487	Marionette	INFO	Stopped listening on port 40963
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626883773228	geckodriver	INFO	Listening on 127.0.0.1:38775
+1626883774239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQcpAi"
+1626883775807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuQcpAi/search.json.mozlz4", (void 0)))
+1626883776947	Marionette	INFO	Listening on port 40099
+1626883777065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626883779071	Marionette	INFO	Stopped listening on port 40099
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626883792177	geckodriver	INFO	Listening on 127.0.0.1:37765
+1626883793188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerOvvXt"
+1626883794739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerOvvXt/search.json.mozlz4", (void 0)))
+1626883795840	Marionette	INFO	Listening on port 35961
+1626883795906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626883798249	Marionette	INFO	Stopped listening on port 35961
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626883806937	Marionette	INFO	Stopped listening on port 45043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626883811838	geckodriver	INFO	Listening on 127.0.0.1:34819
+1626883811841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqLptHo"
+1626883813371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqLptHo/search.json.mozlz4", (void 0)))
+1626883814341	Marionette	INFO	Listening on port 36603
+1626883814358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626883821549	Marionette	INFO	Stopped listening on port 36603
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626884289180	geckodriver	INFO	Listening on 127.0.0.1:52905
+1626884290187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek0ZbEt"
+1626884291666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek0ZbEt/search.json.mozlz4", (void 0)))
+1626884292752	Marionette	INFO	Listening on port 43763
+1626884292803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626884315437	Marionette	INFO	Stopped listening on port 43763
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626886315934	geckodriver	INFO	Listening on 127.0.0.1:44943
+1626886315939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHuc6U6"
+1626886317516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHuc6U6/search.json.mozlz4", (void 0)))
+1626886319937	Marionette	INFO	Listening on port 36211
+1626886319999	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626940252136	geckodriver	INFO	Listening on 127.0.0.1:54835
+1626940253196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewEBW4A"
+1626940254759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewEBW4A/search.json.mozlz4", (void 0)))
+1626940255884	Marionette	INFO	Listening on port 36679
+1626940255919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626940340723	Marionette	INFO	Stopped listening on port 36679
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626940365392	geckodriver	INFO	Listening on 127.0.0.1:56157
+1626940366399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMBVfUo"
+1626940367870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMBVfUo/search.json.mozlz4", (void 0)))
+1626940368827	Marionette	INFO	Listening on port 40901
+1626940368945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626940378208	Marionette	INFO	Stopped listening on port 40901
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626942109166	geckodriver	INFO	Listening on 127.0.0.1:55543
+1626942110179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAvIv5c"
+1626942111706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAvIv5c/search.json.mozlz4", (void 0)))
+1626942112857	Marionette	INFO	Listening on port 36469
+1626942112926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626942161909	Marionette	INFO	Stopped listening on port 36469
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/SearchBox
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/reps/Toolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626942173490	geckodriver	INFO	Listening on 127.0.0.1:50935
+1626942174503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile797Tty"
+1626942176066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile797Tty/search.json.mozlz4", (void 0)))
+1626942177120	Marionette	INFO	Listening on port 37955
+1626942177239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626942279000	Marionette	INFO	Stopped listening on port 37955
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626942307036	geckodriver	INFO	Listening on 127.0.0.1:58243
+1626942308081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileviFnUk"
+1626942309617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileviFnUk/search.json.mozlz4", (void 0)))
+1626942310659	Marionette	INFO	Listening on port 32895
+1626942310705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626942398410	geckodriver	INFO	Listening on 127.0.0.1:46333
+1626942399421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIp1ySs"
+1626942400966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIp1ySs/search.json.mozlz4", (void 0)))
+1626942402091	Marionette	INFO	Listening on port 44723
+1626942402178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626942404247	Marionette	INFO	Stopped listening on port 44723
+1626942414524	geckodriver	INFO	Listening on 127.0.0.1:49445
+1626942415531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDo2vzp"
+1626942417058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDo2vzp/search.json.mozlz4", (void 0)))
+1626942418010	Marionette	INFO	Listening on port 36733
+1626942418049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626942426972	Marionette	INFO	Stopped listening on port 36733
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626942457202	Marionette	INFO	Stopped listening on port 32895
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626946881147	geckodriver	INFO	Listening on 127.0.0.1:46821
+1626946881149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9FhZcn"
+1626946882659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9FhZcn/search.json.mozlz4", (void 0)))
+1626946883784	Marionette	INFO	Listening on port 43961
+1626946883878	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626948039770	geckodriver	INFO	Listening on 127.0.0.1:57217
+1626948039773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb6SfQk"
+1626948041309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb6SfQk/search.json.mozlz4", (void 0)))
+1626948042643	Marionette	INFO	Listening on port 45193
+1626948042704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626948128037	geckodriver	INFO	Listening on 127.0.0.1:38587
+1626948128040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenmT0Pg"
+1626948129560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenmT0Pg/search.json.mozlz4", (void 0)))
+1626948130735	Marionette	INFO	Listening on port 34657
+1626948130759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948132308	geckodriver	INFO	Listening on 127.0.0.1:34877
+1626948133311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWx7XJ"
+1626948134848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFWx7XJ/search.json.mozlz4", (void 0)))
+1626948136121	Marionette	INFO	Listening on port 39389
+1626948136232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626948140847	Marionette	INFO	Stopped listening on port 39389
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948155068	geckodriver	INFO	Listening on 127.0.0.1:40155
+1626948155073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRVYe6C"
+1626948156597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRVYe6C/search.json.mozlz4", (void 0)))
+1626948157647	Marionette	INFO	Listening on port 37761
+1626948157701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1626948159298	Marionette	INFO	Stopped listening on port 37761
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948169790	Marionette	INFO	Stopped listening on port 34657
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626948183545	geckodriver	INFO	Listening on 127.0.0.1:42891
+1626948184554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileObQNKQ"
+1626948186109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileObQNKQ/search.json.mozlz4", (void 0)))
+1626948187309	Marionette	INFO	Listening on port 34853
+1626948187385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948189822	geckodriver	INFO	Listening on 127.0.0.1:49769
+1626948189826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJiakON"
+1626948191361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJiakON/search.json.mozlz4", (void 0)))
+1626948192550	Marionette	INFO	Listening on port 43281
+1626948192649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626948194291	Marionette	INFO	Stopped listening on port 43281
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626948206541	Marionette	INFO	Stopped listening on port 34853
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-shared/components/tree/TreeHeader.js, line 11: TypeError: dom is undefined
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/SearchBox
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/reps/Toolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626948289220	geckodriver	INFO	Listening on 127.0.0.1:57079
+1626948289223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7OYyiO"
+1626948290747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7OYyiO/search.json.mozlz4", (void 0)))
+1626948291996	Marionette	INFO	Listening on port 46773
+1626948292047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1626948348447	Marionette	INFO	Stopped listening on port 46773
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626948486860	geckodriver	INFO	Listening on 127.0.0.1:58933
+1626948487869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletMWByH"
+1626948489419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletMWByH/search.json.mozlz4", (void 0)))
+1626948490596	Marionette	INFO	Listening on port 36739
+1626948490695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948497347	geckodriver	INFO	Listening on 127.0.0.1:42343
+1626948498360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepaGmvY"
+1626948499907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepaGmvY/search.json.mozlz4", (void 0)))
+1626948501169	Marionette	INFO	Listening on port 40207
+1626948501284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626948503184	Marionette	INFO	Stopped listening on port 40207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948504588	Marionette	INFO	Stopped listening on port 36739
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-shared/components/tree/TreeHeader.js, line 11: TypeError: dom is undefined
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/reps/Toolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/SearchBox
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626948585495	geckodriver	INFO	Listening on 127.0.0.1:50501
+1626948586505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUo3cMz"
+1626948588019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUo3cMz/search.json.mozlz4", (void 0)))
+1626948589474	Marionette	INFO	Listening on port 35757
+1626948589544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948591973	geckodriver	INFO	Listening on 127.0.0.1:52067
+1626948591976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNnsMft"
+1626948593513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNnsMft/search.json.mozlz4", (void 0)))
+1626948594793	Marionette	INFO	Listening on port 38113
+1626948594906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626948596527	Marionette	INFO	Stopped listening on port 38113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1626948597767	Marionette	INFO	Stopped listening on port 35757
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627496719001	geckodriver	INFO	Listening on 127.0.0.1:45969
+1627496720013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecrG1Lz"
+1627496721555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecrG1Lz/search.json.mozlz4", (void 0)))
+1627496722715	Marionette	INFO	Listening on port 33077
+1627496722732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627496792570	Marionette	INFO	Stopped listening on port 33077
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeView
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-prop-types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tabs/Tabs
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627496842853	geckodriver	INFO	Listening on 127.0.0.1:36433
+1627496842855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq5LjF1"
+1627496844375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq5LjF1/search.json.mozlz4", (void 0)))
+1627496845615	Marionette	INFO	Listening on port 41149
+1627496845678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627496946428	Marionette	INFO	Stopped listening on port 41149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627497137692	geckodriver	INFO	Listening on 127.0.0.1:33993
+1627497138705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileul1NC1"
+1627497140249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileul1NC1/search.json.mozlz4", (void 0)))
+1627497141435	Marionette	INFO	Listening on port 43057
+1627497141539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627497169613	Marionette	INFO	Stopped listening on port 43057
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/react-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/MainTabbedArea
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeView
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627497219849	geckodriver	INFO	Listening on 127.0.0.1:39231
+1627497220853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemAoil4"
+1627497222353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemAoil4/search.json.mozlz4", (void 0)))
+1627497223412	Marionette	INFO	Listening on port 33547
+1627497223469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627497242916	Marionette	INFO	Stopped listening on port 33547
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627497338596	geckodriver	INFO	Listening on 127.0.0.1:49899
+1627497339608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQFy7zm"
+1627497341173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQFy7zm/search.json.mozlz4", (void 0)))
+1627497342345	Marionette	INFO	Listening on port 34451
+1627497342433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627497400945	Marionette	INFO	Stopped listening on port 34451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627497424191	geckodriver	INFO	Listening on 127.0.0.1:49121
+1627497425204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefCDoWm"
+1627497426766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefCDoWm/search.json.mozlz4", (void 0)))
+1627497427993	Marionette	INFO	Listening on port 42111
+1627497428025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627497456380	Marionette	INFO	Stopped listening on port 42111
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627499128856	geckodriver	INFO	Listening on 127.0.0.1:49505
+1627499129868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex4ON4F"
+1627499131434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex4ON4F/search.json.mozlz4", (void 0)))
+1627499132550	Marionette	INFO	Listening on port 39121
+1627499132585	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627499195197	geckodriver	INFO	Listening on 127.0.0.1:37871
+1627499196201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletkmwHC"
+1627499197700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletkmwHC/search.json.mozlz4", (void 0)))
+1627499198730	Marionette	INFO	Listening on port 33099
+1627499198840	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'domnode's method 'getImageData'" "CanvasRenderingContext2D.drawImage: Passed-in image is \"broken\""
+console.error: ({})
+1627499280399	Marionette	INFO	Stopped listening on port 33099
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627499285323	geckodriver	INFO	Listening on 127.0.0.1:58933
+1627499286331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKHuhJT"
+1627499287812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKHuhJT/search.json.mozlz4", (void 0)))
+1627499288887	Marionette	INFO	Listening on port 39781
+1627499288968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627499303162	Marionette	INFO	Stopped listening on port 39781
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627499348284	geckodriver	INFO	Listening on 127.0.0.1:41557
+1627499349296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBbjUtu"
+1627499350871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBbjUtu/search.json.mozlz4", (void 0)))
+1627499351837	Marionette	INFO	Listening on port 38113
+1627499351921	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627499907531	Marionette	INFO	Stopped listening on port 38113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627500355954	geckodriver	INFO	Listening on 127.0.0.1:53849
+1627500356967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCaDLI"
+1627500358543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelCaDLI/search.json.mozlz4", (void 0)))
+1627500359827	Marionette	INFO	Listening on port 43679
+1627500359899	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627500438523	geckodriver	INFO	Listening on 127.0.0.1:48497
+1627500439537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesZOXfV"
+1627500441096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesZOXfV/search.json.mozlz4", (void 0)))
+1627500442284	Marionette	INFO	Listening on port 43501
+1627500442383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 353: TypeError: ChromeUtils.getClassName: Argument 1 is not an object.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627500831953	Marionette	INFO	Stopped listening on port 43501
+1627500832087	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Data is not ready.(resource://gre/modules/JSONFile.jsm:196:13) JS Stack trace: get data@JSONFile.jsm:196:13
+get@ExtensionPermissions.jsm:97:17
+observe@AsyncShutdown.jsm:575:16
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627501150971	geckodriver	INFO	Listening on 127.0.0.1:43003
+1627501151983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileECRbeV"
+1627501153538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileECRbeV/search.json.mozlz4", (void 0)))
+1627501154725	Marionette	INFO	Listening on port 36717
+1627501154801	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627502271848	geckodriver	INFO	Listening on 127.0.0.1:33727
+1627502271851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC1QoYo"
+1627502273390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC1QoYo/search.json.mozlz4", (void 0)))
+1627502274785	Marionette	INFO	Listening on port 41301
+1627502274880	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627502474604	geckodriver	INFO	Listening on 127.0.0.1:48149
+1627502475612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVFom99"
+1627502477155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVFom99/search.json.mozlz4", (void 0)))
+1627502478362	Marionette	INFO	Listening on port 37419
+1627502478442	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627502765857	geckodriver	INFO	Listening on 127.0.0.1:50779
+1627502765859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYpb0H9"
+1627502767451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYpb0H9/search.json.mozlz4", (void 0)))
+1627502768407	Marionette	INFO	Listening on port 45067
+1627502768426	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627503609773	geckodriver	INFO	Listening on 127.0.0.1:40945
+1627503610783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU1BBJZ"
+1627503612323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU1BBJZ/search.json.mozlz4", (void 0)))
+1627503613488	Marionette	INFO	Listening on port 45611
+1627503613505	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627503797980	geckodriver	INFO	Listening on 127.0.0.1:60455
+1627503797982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePFABdC"
+1627503799471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePFABdC/search.json.mozlz4", (void 0)))
+1627503800476	Marionette	INFO	Listening on port 45723
+1627503800501	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627503896497	geckodriver	INFO	Listening on 127.0.0.1:39283
+1627503896500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew7njP6"
+1627503898019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew7njP6/search.json.mozlz4", (void 0)))
+1627503899183	Marionette	INFO	Listening on port 41057
+1627503899230	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627503958687	geckodriver	INFO	Listening on 127.0.0.1:56755
+1627503958689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3dxtYS"
+1627503960179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3dxtYS/search.json.mozlz4", (void 0)))
+1627503961374	Marionette	INFO	Listening on port 38385
+1627503961406	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627504087888	geckodriver	INFO	Listening on 127.0.0.1:36525
+1627504087895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledrCJpK"
+1627504089419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledrCJpK/search.json.mozlz4", (void 0)))
+1627504090686	Marionette	INFO	Listening on port 35201
+1627504090720	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627504328854	geckodriver	INFO	Listening on 127.0.0.1:58759
+1627504329866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJwviqA"
+1627504331424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJwviqA/search.json.mozlz4", (void 0)))
+1627504332441	Marionette	INFO	Listening on port 40545
+1627504332485	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627504381065	geckodriver	INFO	Listening on 127.0.0.1:52139
+1627504382075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG5KXWy"
+1627504383642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG5KXWy/search.json.mozlz4", (void 0)))
+1627504384653	Marionette	INFO	Listening on port 33335
+1627504384706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627504388011	Marionette	INFO	Stopped listening on port 33335
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627504489520	geckodriver	INFO	Listening on 127.0.0.1:60237
+1627504490532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemTcA4y"
+1627504492084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemTcA4y/search.json.mozlz4", (void 0)))
+1627504493303	Marionette	INFO	Listening on port 36731
+1627504493359	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627504741188	geckodriver	INFO	Listening on 127.0.0.1:45009
+1627504742195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7rFDxj"
+1627504743710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7rFDxj/search.json.mozlz4", (void 0)))
+1627504744761	Marionette	INFO	Listening on port 34955
+1627504744811	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627505166098	geckodriver	INFO	Listening on 127.0.0.1:60943
+1627505167102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ7ToaJ"
+1627505168605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ7ToaJ/search.json.mozlz4", (void 0)))
+1627505169726	Marionette	INFO	Listening on port 35971
+1627505169830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1627505181399	Marionette	INFO	Stopped listening on port 35971
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627505213258	geckodriver	INFO	Listening on 127.0.0.1:57529
+1627505214272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGwGGEm"
+1627505215871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGwGGEm/search.json.mozlz4", (void 0)))
+1627505216995	Marionette	INFO	Listening on port 43035
+1627505217108	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627505569628	geckodriver	INFO	Listening on 127.0.0.1:38567
+1627505570633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileILukTX"
+1627505572157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileILukTX/search.json.mozlz4", (void 0)))
+1627505573201	Marionette	INFO	Listening on port 37065
+1627505573251	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627505719123	geckodriver	INFO	Listening on 127.0.0.1:56465
+1627505720129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoYa8kH"
+1627505721660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoYa8kH/search.json.mozlz4", (void 0)))
+1627505722759	Marionette	INFO	Listening on port 34177
+1627505722848	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627505916037	geckodriver	INFO	Listening on 127.0.0.1:39987
+1627505917044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei3hRHR"
+1627505918561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei3hRHR/search.json.mozlz4", (void 0)))
+1627505919674	Marionette	INFO	Listening on port 42361
+1627505919796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627505947680	Marionette	INFO	Stopped listening on port 42361
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627505952601	geckodriver	INFO	Listening on 127.0.0.1:59867
+1627505953609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexAVcpn"
+1627505955099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexAVcpn/search.json.mozlz4", (void 0)))
+1627505956115	Marionette	INFO	Listening on port 37555
+1627505956247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13000/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627505990395	Marionette	INFO	Stopped listening on port 37555
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/react-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/MainTabbedArea
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeView
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627506090597	geckodriver	INFO	Listening on 127.0.0.1:47645
+1627506091604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiaoeIw"
+1627506093094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiaoeIw/search.json.mozlz4", (void 0)))
+1627506094167	Marionette	INFO	Listening on port 41443
+1627506094223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627506122262	Marionette	INFO	Stopped listening on port 41443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627544009969	geckodriver	INFO	Listening on 127.0.0.1:50953
+1627544011033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesp4LQH"
+1627544012610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesp4LQH/search.json.mozlz4", (void 0)))
+1627544013838	Marionette	INFO	Listening on port 39967
+1627544013855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627544138647	Marionette	INFO	Stopped listening on port 39967
+1627544653161	geckodriver	INFO	Listening on 127.0.0.1:37945
+1627544654168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWrX13P"
+1627544655677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWrX13P/search.json.mozlz4", (void 0)))
+1627544656764	Marionette	INFO	Listening on port 36147
+1627544656785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627544682734	Marionette	INFO	Stopped listening on port 36147
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627544873043	geckodriver	INFO	Listening on 127.0.0.1:41013
+1627544874051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTus0E"
+1627544875574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGTus0E/search.json.mozlz4", (void 0)))
+1627544876743	Marionette	INFO	Listening on port 37731
+1627544876777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627544995778	Marionette	INFO	Stopped listening on port 37731
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627545050350	geckodriver	INFO	Listening on 127.0.0.1:34333
+1627545051362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKjvtL"
+1627545052913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeKjvtL/search.json.mozlz4", (void 0)))
+1627545053932	Marionette	INFO	Listening on port 36867
+1627545053988	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627546665352	geckodriver	INFO	Listening on 127.0.0.1:51845
+1627546666364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCV3trr"
+1627546667062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCV3trr/search.json.mozlz4", (void 0)))
+1627546668150	Marionette	INFO	Listening on port 38269
+1627546668187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627546877146	Marionette	INFO	Stopped listening on port 38269
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547140080	geckodriver	INFO	Listening on 127.0.0.1:49531
+1627547141088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFCVuKj"
+1627547142616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFCVuKj/search.json.mozlz4", (void 0)))
+1627547143627	Marionette	INFO	Listening on port 46347
+1627547143711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547164159	Marionette	INFO	Stopped listening on port 46347
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547209916	geckodriver	INFO	Listening on 127.0.0.1:56023
+1627547210929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileboLy2J"
+1627547212473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileboLy2J/search.json.mozlz4", (void 0)))
+1627547213684	Marionette	INFO	Listening on port 34381
+1627547213756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547234464	Marionette	INFO	Stopped listening on port 34381
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547251629	geckodriver	INFO	Listening on 127.0.0.1:45535
+1627547252642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemM6AX9"
+1627547254184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemM6AX9/search.json.mozlz4", (void 0)))
+1627547255298	Marionette	INFO	Listening on port 38827
+1627547255360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547268354	Marionette	INFO	Stopped listening on port 38827
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547298459	geckodriver	INFO	Listening on 127.0.0.1:56595
+1627547299463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWXFsH"
+1627547300994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelWXFsH/search.json.mozlz4", (void 0)))
+1627547302096	Marionette	INFO	Listening on port 33833
+1627547302197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547323157	Marionette	INFO	Stopped listening on port 33833
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547358157	geckodriver	INFO	Listening on 127.0.0.1:41655
+1627547359169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuk0lc0"
+1627547360692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuk0lc0/search.json.mozlz4", (void 0)))
+1627547361800	Marionette	INFO	Listening on port 46137
+1627547361886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547399566	Marionette	INFO	Stopped listening on port 46137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547402363	geckodriver	INFO	Listening on 127.0.0.1:59843
+1627547403375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemFoAFD"
+1627547404916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemFoAFD/search.json.mozlz4", (void 0)))
+1627547405858	Marionette	INFO	Listening on port 45323
+1627547405897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547420101	Marionette	INFO	Stopped listening on port 45323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547435769	geckodriver	INFO	Listening on 127.0.0.1:54395
+1627547436781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJnaYqS"
+1627547438332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJnaYqS/search.json.mozlz4", (void 0)))
+1627547439481	Marionette	INFO	Listening on port 44979
+1627547439499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547452688	Marionette	INFO	Stopped listening on port 44979
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547470444	geckodriver	INFO	Listening on 127.0.0.1:52329
+1627547471456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4X86YF"
+1627547472990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4X86YF/search.json.mozlz4", (void 0)))
+1627547474118	Marionette	INFO	Listening on port 40797
+1627547474185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547505298	Marionette	INFO	Stopped listening on port 40797
+1627547553909	geckodriver	INFO	Listening on 127.0.0.1:46725
+1627547554921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXToG3O"
+1627547556442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXToG3O/search.json.mozlz4", (void 0)))
+1627547557567	Marionette	INFO	Listening on port 44265
+1627547557643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547595995	Marionette	INFO	Stopped listening on port 44265
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547623331	geckodriver	INFO	Listening on 127.0.0.1:42237
+1627547624338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZj9H08"
+1627547625847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZj9H08/search.json.mozlz4", (void 0)))
+1627547626920	Marionette	INFO	Listening on port 33895
+1627547626988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547652001	Marionette	INFO	Stopped listening on port 33895
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547677108	geckodriver	INFO	Listening on 127.0.0.1:39087
+1627547678114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9oqFB0"
+1627547679641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9oqFB0/search.json.mozlz4", (void 0)))
+1627547680725	Marionette	INFO	Listening on port 44683
+1627547680862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547770249	Marionette	INFO	Stopped listening on port 44683
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547919408	geckodriver	INFO	Listening on 127.0.0.1:48561
+1627547920420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEUF34Z"
+1627547921946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEUF34Z/search.json.mozlz4", (void 0)))
+1627547923014	Marionette	INFO	Listening on port 45113
+1627547923052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627547950074	Marionette	INFO	Stopped listening on port 45113
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547965914	geckodriver	INFO	Listening on 127.0.0.1:53485
+1627547965916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenKcq6I"
+1627547967513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenKcq6I/search.json.mozlz4", (void 0)))
+1627547968499	Marionette	INFO	Listening on port 38139
+1627547968592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547972696	Marionette	INFO	Stopped listening on port 38139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627547981966	geckodriver	INFO	Listening on 127.0.0.1:51881
+1627547982979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWT2kLd"
+1627547984542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWT2kLd/search.json.mozlz4", (void 0)))
+1627547985586	Marionette	INFO	Listening on port 39537
+1627547985601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627548072450	Marionette	INFO	Stopped listening on port 39537
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627548331104	geckodriver	INFO	Listening on 127.0.0.1:60917
+1627548332113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepkZTWc"
+1627548333201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepkZTWc/search.json.mozlz4", (void 0)))
+1627548334364	Marionette	INFO	Listening on port 36215
+1627548334429	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627548917146	geckodriver	INFO	Listening on 127.0.0.1:51065
+1627548918157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekBpuGZ"
+1627548919717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekBpuGZ/search.json.mozlz4", (void 0)))
+1627548920806	Marionette	INFO	Listening on port 42179
+1627548920876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627549037613	geckodriver	INFO	Listening on 127.0.0.1:50693
+1627549038618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek20o5H"
+1627549040165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek20o5H/search.json.mozlz4", (void 0)))
+1627549041295	Marionette	INFO	Listening on port 43845
+1627549041336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627549095307	Marionette	INFO	Stopped listening on port 43845
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627549311620	geckodriver	INFO	Listening on 127.0.0.1:60495
+1627549312628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezj8QQr"
+1627549314170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezj8QQr/search.json.mozlz4", (void 0)))
+1627549315277	Marionette	INFO	Listening on port 34393
+1627549315349	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627549848462	Marionette	INFO	Stopped listening on port 34393
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-prop-types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tabs/Tabs
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627551068656	geckodriver	INFO	Listening on 127.0.0.1:49685
+1627551069663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqCE6SG"
+1627551071155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqCE6SG/search.json.mozlz4", (void 0)))
+1627551072189	Marionette	INFO	Listening on port 45943
+1627551072300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627551122058	geckodriver	INFO	Listening on 127.0.0.1:36365
+1627551122060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOePsoN"
+1627551123578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOePsoN/search.json.mozlz4", (void 0)))
+1627551124501	Marionette	INFO	Listening on port 35537
+1627551124596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1627551129447	Marionette	INFO	Stopped listening on port 35537
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627551151728	Marionette	INFO	Stopped listening on port 45943
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-shared/components/tree/TreeView.js, line 14: TypeError: require(...) is undefined
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627551181491	geckodriver	INFO	Listening on 127.0.0.1:42565
+1627551182498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAO8nK0"
+1627551184029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAO8nK0/search.json.mozlz4", (void 0)))
+1627551185211	Marionette	INFO	Listening on port 36367
+1627551185319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627551193911	geckodriver	INFO	Listening on 127.0.0.1:42341
+1627551194923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilearLTjl"
+1627551196410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilearLTjl/search.json.mozlz4", (void 0)))
+1627551197575	Marionette	INFO	Listening on port 40737
+1627551197644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627551216116	Marionette	INFO	Stopped listening on port 40737
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627551256237	geckodriver	INFO	Listening on 127.0.0.1:35405
+1627551256241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGxrul7"
+1627551257760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGxrul7/search.json.mozlz4", (void 0)))
+1627551258933	Marionette	INFO	Listening on port 45491
+1627551258957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:13001/launcher, line 1: ReferenceError: movimentSeleccionat is not defined
+1627551297393	Marionette	INFO	Stopped listening on port 36367
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom-factories
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/ObjectProvider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeRow
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeHeader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/scroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/LiveText
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonToolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/Headers
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersToolbar
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1627551365957	Marionette	INFO	Stopped listening on port 45491

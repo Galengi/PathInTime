@@ -1,0 +1,139 @@
+<section class='content'><div><h1 class='row'>Path In Time</h1></div>
+ <div><table style='border: 0px solid #000; text-align:center' border='0' width='393'><tbody><tr><td style='width: 91px;'><h2>Clasificació Propia:</h2> </td> <td style='width: 91px;'> <h2 id = 'rankingPersonal' > 548 </h2> </td> </tr> </tbody> </table> <div><h2>NIVELLS:</h2><table style='border: 1px solid #000;' border='0' width='64' cellspacing='0' cellpadding='0'>
+ <form role='form' method='post' action='/submitNivell' enctype='multipart/form-data'>
+  <tr>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='1' onclick='openWin(this.value)'>1</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='2' onclick='openWin(this.value)'>2</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='3' onclick='openWin(this.value)'>3</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='4' onclick='openWin(this.value)'>4</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='5' onclick='openWin(this.value)'>5</button>
+</td>
+  </tr>
+  <tr>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='6' onclick='openWin(this.value)'>6</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='7' onclick='openWin(this.value)'>7</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='8' onclick='openWin(this.value)'>8</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='9' onclick='openWin(this.value)'>9</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='10' onclick='openWin(this.value)'>10</button>
+</td>
+  </tr>
+  <tr>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='11' onclick='openWin(this.value)'>11</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='12' onclick='openWin(this.value)'>12</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='13' onclick='openWin(this.value)'>13</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='14' onclick='openWin(this.value)'>14</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='15' onclick='openWin(this.value)'>15</button>
+</td>
+  </tr>
+  <tr>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='16' onclick='openWin(this.value)'>16</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='17' onclick='openWin(this.value)'>17</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='18' onclick='openWin(this.value)'>18</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='19' onclick='openWin(this.value)'>19</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='20' onclick='openWin(this.value)'>20</button>
+</td>
+  </tr>
+  <tr>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='21' onclick='openWin(this.value)'>21</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='22' onclick='openWin(this.value)'>22</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='23' onclick='openWin(this.value)'>23</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='24' onclick='openWin(this.value)'>24</button>
+</td>
+    <td><button style='border:none;' class='myclass' type='submit' name='nivellSeleccionat' id='level' value='25' onclick='openWin(this.value)'>25</button>
+</td>
+  </tr>
+</form>
+ </table>
+ <table> <td> <form role='form' method='post' action='/submitEixir' enctype='multipart/form-data'>
+ <button style='border:none;' class='myclass' type='submit' name='eixir' id='eixir' value='eixir' onclick='movimentSeleccionat(this)'>EIXIR</button>
+ </form>
+ </td><td> &nbsp </td> <td> <form role='form' method='post' action='/submitClasificacio' enctype='multipart/form-data'>
+ <button style='border:none;' class='myclass' type='submit' name='clasificacio' id='clasificacio' value='clasificacio' onclick='movimentSeleccionat(this)'>RANKING</button>
+ </form>
+ </td> </table><script>
+ let arrayX = [1];
+ let arrayY = [1];
+ arrayX[1] = 5;
+ arrayY[1] = 5;
+ arrayX[2] = 5;
+ arrayY[2] = 5;
+ arrayX[3] = 5;
+ arrayY[3] = 5;
+ arrayX[4] = 5;
+ arrayY[4] = 5;
+ arrayX[5] = 5;
+ arrayY[5] = 5;
+ arrayX[6] = 5;
+ arrayY[6] = 5;
+ arrayX[7] = 5;
+ arrayY[7] = 5;
+ arrayX[8] = 5;
+ arrayY[8] = 5;
+ arrayX[9] = 5;
+ arrayY[9] = 5;
+ arrayX[10] = 5;
+ arrayY[10] = 5;
+ arrayX[11] = 5;
+ arrayY[11] = 5;
+ arrayX[12] = 5;
+ arrayY[12] = 5;
+ arrayX[13] = 5;
+ arrayY[13] = 5;
+ arrayX[14] = 5;
+ arrayY[14] = 5;
+ arrayX[15] = 5;
+ arrayY[15] = 5;
+ arrayX[16] = 5;
+ arrayY[16] = 5;
+ arrayX[17] = 5;
+ arrayY[17] = 5;
+ arrayX[18] = 5;
+ arrayY[18] = 5;
+ arrayX[19] = 5;
+ arrayY[19] = 5;
+ arrayX[20] = 5;
+ arrayY[20] = 5;
+ arrayX[21] = 5;
+ arrayY[21] = 5;
+ arrayX[22] = 5;
+ arrayY[22] = 5;
+ arrayX[23] = 5;
+ arrayY[23] = 5;
+ arrayX[24] = 5;
+ arrayY[24] = 5;
+ arrayX[25] = 5;
+ arrayY[25] = 5;
+function openWin(lvl){
+ setTimeout(function() {
+ var widthLvl = arrayX[lvl] * 100;
+ var heightLvl = arrayY[lvl] * 100;
+window.open('http://127.0.0.1:13000/level', 'LEVEL', 'width='+ String(widthLvl) +', height='+String(heightLvl)); }, 500);
+ }
+</script>
+ <style>
+ .myclass {
+ display: inline-block;
+ width: 32px;
+ padding: 0px 0px;
+ height: 32px;
+}
+</style>
