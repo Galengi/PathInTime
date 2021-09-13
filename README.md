@@ -4,10 +4,19 @@ TFG de Àngel Giner Vidal
 Instal·lacions necessàries
 Per a iniciar el videojoc necessitem fer algunes instal·lacions prèvies, així com seguir unordre en la execució de fitxers. Aquests donen algunes coses per defecte:
 El nom del servidor local és localhost.
+
 •-Els fitxers amb les classes ’webCreator’ i ’creadorNivells’ es troben a la mateixacarpeta que la classe de l’agent Gestor.
+
 •-El fitxer amb la classe ’WebCreator’ es troba en la mateixa carpeta que la classe del’agent Usuari.
+
 •-El driver corresponent, Geckodriver per a Mozilla Firefox, ha sigut afegit al PATH abans d’executar l’agent Interfície.
+(PER A AFEGIR A LA RUTA LA PROPIA CARPETA) export PATH=$PATH:$PWD
+
+•-El driver corresponent, té permisos d'execució.
+(PER A DONAR-LI PERMISOS D'EXECUCIÓ AL geckodriver) sudo chmod +x geckodriver
+
 •-Si els agents no estan registrats el servidor ha de tindre elregistre en bandaactivat
+
 Tenint en compte el punts inicials,  també cal instal·lar a l’entorn on s’executen elsagents les següents biblioteques:
 spade == 3.2.0
 selenium == 3.141.0
