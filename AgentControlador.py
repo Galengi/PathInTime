@@ -377,7 +377,6 @@ class AgentControlador(Agent):
         fsm.add_transition(source=TRANSFERENCIA_NIVELL, dest=COMPROVAR_MOVIMENT)
         fsm.add_transition(source=COMPROVAR_MOVIMENT, dest=COMPROVAR_MOVIMENT)
         fsm.add_transition(source=COMPROVAR_MOVIMENT, dest=TRANSFERENCIA_NIVELL)
-        fsm.add_transition(source=COMPLET, dest=TRANSFERENCIA_NIVELL)
 
         fsm.add_transition(source=TRANSFERENCIA_NIVELL, dest=EIXIR)
         fsm.add_transition(source=COMPROVAR_MOVIMENT, dest=EIXIR)
